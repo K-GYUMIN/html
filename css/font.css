@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+/* 웹폰트 */
+/* /font/폰트. . . */
+
+@font-face {
+    font-family: 'gothic A1';
+    src: url('font/Gothic/GothicA1-Black.eot');
+    src: url('font/Gothic/GothicA1-Regular.woff2');
+    src: url('font/Gothic/GothicA1-Medium.woff');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
